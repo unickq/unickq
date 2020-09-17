@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi, I'm Nick 👋
 
+Software Engineer in Test, making scrapers automated tests, scrapers, bots and CI
+
+[![Linkedin Add](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/unickq/)
+![GitHub followers](https://img.shields.io/github/followers/unickq?label=follow&style=social)
+![Nuget](https://img.shields.io/nuget/dt/nunit.allure?style=social)
 <!--
 **unickq/unickq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
